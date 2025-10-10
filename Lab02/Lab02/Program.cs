@@ -40,7 +40,7 @@ while (true)
     Console.WriteLine("1.Add Book");
     Console.WriteLine("2.Pattern Matching");
     Console.WriteLine("3.Quit");
-    Console.WriteLine("4.Filter books after 2010");   // <- new option
+    Console.WriteLine("4.Filter books after 2010");   
     string input = Console.ReadLine();
 
     if (input == "1")
