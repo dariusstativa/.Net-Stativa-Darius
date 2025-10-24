@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t0sRHZpmeaE=",
+  "dgSpecHash": "8gfFBPDuCos=",
   "success": true,
-  "projectFilePath": "E:\\.NET real\\.Net-Stativa-Darius\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "E:\\.NET real\\.Net-Stativa-Darius\\Lab03\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Darius\\.nuget\\packages\\fluentvalidation\\12.0.0\\fluentvalidation.12.0.0.nupkg.sha512",
     "C:\\Users\\Darius\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\12.0.0\\fluentvalidation.dependencyinjectionextensions.12.0.0.nupkg.sha512",

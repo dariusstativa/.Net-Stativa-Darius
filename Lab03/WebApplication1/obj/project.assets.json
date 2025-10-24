@@ -3212,11 +3212,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\.NET real\\.Net-Stativa-Darius\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "E:\\.NET real\\.Net-Stativa-Darius\\Lab03\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "E:\\.NET real\\.Net-Stativa-Darius\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "E:\\.NET real\\.Net-Stativa-Darius\\Lab03\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\Darius\\.nuget\\packages\\",
-      "outputPath": "E:\\.NET real\\.Net-Stativa-Darius\\WebApplication1\\WebApplication1\\obj\\",
+      "outputPath": "E:\\.NET real\\.Net-Stativa-Darius\\Lab03\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
